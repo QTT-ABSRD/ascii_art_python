@@ -9,4 +9,9 @@ Mode d'emploi :
 
 2° modifier le nom dans le script par le nom de votre photo. 
 
-3° executer le script dans le terminal.
+
+
+Code to transform a photo with ascii art style.
+
+1° Place in a same directory the script and the photo to convert.
+2° Change the name in the script with your photo's name.
