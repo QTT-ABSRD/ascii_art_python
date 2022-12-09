@@ -9,6 +9,8 @@ Mode d'emploi :
 
 2° modifier le nom dans le script par le nom de votre photo. 
 
+====================================================================
+
 
 
 Code to transform a photo with ascii art style.
