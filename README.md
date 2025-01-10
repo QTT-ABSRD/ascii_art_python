@@ -16,4 +16,5 @@ Mode d'emploi :
 Code to transform a photo with ascii art style.
 
 1° Place in a same directory the script and the photo to convert.
+
 2° Change the name in the script with your photo's name.
